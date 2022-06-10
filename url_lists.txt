@@ -1,0 +1,6 @@
+http://localhost:4000/articles/1/review?approve=ASJJSDMYXTREDLVD
+http://localhost:4000/articles/1/review?deny=IEVVHNVWKLPGINWJCPM
+http://localhost:4000/articles/1/review?approve=DEEFXMYKKBASWQCG
+http://localhost:4000/articles/1/review?deny=4-1-GSSASMWHDEKNOUM
+http://localhost:4000/articles/1/review?approve=HPINRFBHUORWCGNH
+http://localhost:4000/articles/1/review?deny=LLIYWKGWRJBCOWGYPJC
